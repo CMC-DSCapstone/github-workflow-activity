@@ -1,9 +1,5 @@
 # GitHub Workflow Activity
 
-## Form teams of 2-3 persons
-
-We suggest you work with someone who is uses the same operating system as you.
-
 ## Instructions
 
 
