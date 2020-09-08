@@ -8,7 +8,7 @@
     - [ ] Has git installed on their laptop.
     - [ ] Is logged into their GitHub account on their computer.
 
-2. (1 minute) Create and share with your team a shared editor (e.g., Google docs, https://pad.riseup.net/, etc.) for notes.
+2. (1 minute) Create and share with your team a shared editor (e.g., Google docs, https://pad.riseup.net/, etc.) for notes. If you created a etherpad from riseup.net, make sure you choose its lifespan to be 60 days. 
 
 3. (10 minutes) Assign the role of _maintainer_ to one of your team members and help them [Create an organization and a repository](create-an-organization-and-a-repository.md) for the team. Return here when you are done.
 
